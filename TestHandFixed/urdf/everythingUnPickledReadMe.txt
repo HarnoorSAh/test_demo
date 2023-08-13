@@ -1,0 +1,2 @@
+This Blend files contains all of the different poses for all 12 moCap animations for all the joints except for the palm. The file also contains the animations' mean pose and 100 most different poses
+frames 0 - 13276 contain all the poses. Frames 13277-28 is the mean pose. The next 100 frames contain the 10 most different poses.
